@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Headers\NtExp">
+      <UniqueIdentifier>{dac22e7f-e96b-4adb-a29d-cabfa3381db6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="includes\NTExp\nttp.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntwow64.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntxcapi.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\subprocesstag.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\winsta.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntcommon.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntcompatibility.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntdbg.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntexapi.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntgdi.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntioapi.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntkeapi.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntldr.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntlpcapi.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntmisc.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntmmapi.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntnls.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntobapi.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntpebteb.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntpfapi.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntpnpapi.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntpoapi.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntpsapi.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntregapi.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntrtl.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntsam.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntseapi.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntsmss.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\ntstatus.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp\nttmapi.h">
+      <Filter>Headers\NtExp</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTExp.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\NTLib.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
